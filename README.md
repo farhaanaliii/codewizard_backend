@@ -31,8 +31,8 @@ CodeWizard is an innovative learning platform built for the [World's Largest Hac
 ## 👥 Team
 
 ### Developers
-- [Farhan Ali](https://github.com/farhaanaliii) - Backend Developer & AI Integration
-- [MINHAJUL ISLAM](https://github.com/xspoilt-dev) - Backend Developer & System Architecture
+- [Farhan Ali](https://github.com/farhaanaliii) - Backend Developer & System Architecture
+- [MINHAJUL ISLAM](https://github.com/xspoilt-dev) - Backend Developer & AI Integration
 
 ### AI Integration
 Our platform leverages advanced AI capabilities to provide:
